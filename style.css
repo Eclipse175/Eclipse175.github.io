@@ -1,0 +1,38 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(header.jpg) no-repeat center center fixed;
+
+  background-size:cover;
+
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+}
+
+.btn-primary {
+  padding: 1rem 2rem;
+  border:none;
+}
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+}
+
+hr{
+  border:1px solid #F05F44;
+  width:80px;
+}
+
+
+h1{
+  color:white;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+.buffer{
+  height:10rem;
+}
